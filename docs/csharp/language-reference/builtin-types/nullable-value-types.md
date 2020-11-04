@@ -11,7 +11,7 @@ ms.contentlocale: ko-KR
 ms.lasthandoff: 10/23/2020
 ms.locfileid: "92471837"
 ---
-# <a name="nullable-value-types-c-reference"></a>Nullalbe 값 형식(C# 참조)
+# <a name="nullable-value-types-c-reference"></a>Nullable 값 형식(C# 참조)
 
 *Null 허용 값 형식* `T?`는 기본 [값 형식](value-types.md) `T`의 모든 값과 추가 [null](../keywords/null.md) 값을 나타냅니다. 예를 들어 `bool?` 변수에는 다음 세 가지 값 중 하나를 할당할 수 있습니다. `true`, `false`, `null`. 기본 값 형식 `T`는 null 허용 값 형식 자체일 수 없습니다.
 
